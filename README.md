@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning [VueJS](https://vuejs.org/)
+- 🌱 I’m currently learning [VueJS](https://vuejs.org/) & [GraphQL](https://graphql.org/)
 
 <!--
 **Lewwiss/Lewwiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
