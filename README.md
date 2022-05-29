@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - I’m currently learning [VueJS](https://vuejs.org/) & [GraphQL](https://graphql.org/).
-- I'm also working on [Floor Checker](https://floorchecker.io).
 
 Check out my portfolio for some of my other work [lewiswinthrop.com](https://lewiswinthrop.com).
 
