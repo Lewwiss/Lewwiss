@@ -18,4 +18,4 @@
 ![image](https://img.shields.io/badge/GraphQl-black?style=for-the-badge&logo=graphql&logoColor=white)
 ![image](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
 
-[<img src="https://raw.githubusercontent.com/Lewwiss/qrcoded/main/.github/showcase.png">](https://github.com/Lewwiss/qrcoded)
+[<img width="50%" src="https://raw.githubusercontent.com/Lewwiss/qrcoded/main/.github/showcase.png">](https://github.com/Lewwiss/qrcoded)
